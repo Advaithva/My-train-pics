@@ -17,3 +17,6 @@ img {
 .ERN_BLR_EXP {
         border: 1px solid grey;
 }
+body {
+    padding:10px;
+}
