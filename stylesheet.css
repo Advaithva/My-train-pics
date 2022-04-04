@@ -1,6 +1,7 @@
 img {
     padding:20px;
        display:flex;
+      width: 33.33%;
 }
 
 body {
@@ -9,6 +10,6 @@ body {
 
 .content {
   
-  width: 33.33%;
+
   padding: 9.42px;
 }  
