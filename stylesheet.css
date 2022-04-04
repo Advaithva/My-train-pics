@@ -1,7 +1,7 @@
 img {
     padding:20px;
 }
-img: hover {
+img:hover {
     background-blend-mode: lighten;
 	background-color: rgba(186,244,250,0.82);
 }
