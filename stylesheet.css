@@ -6,12 +6,13 @@ img {
          float: left;
   width: 33.33%;
   padding: 5px;
-  border: 1px solid grey;
+  
 }
 
 .BLR_Rajdhani {
-    margin:100px;
+
+    border: 1px solid grey;
 }
 .ERN_BLR_EXP {
-        margin:100px;
+        border: 1px solid grey;
 }
