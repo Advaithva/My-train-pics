@@ -1,6 +1,9 @@
 img {
     padding:20px;
 }
+body {
+    padding:10px;
+}
 
 .content {
   
@@ -20,9 +23,7 @@ img {
 .ERN_BLR_EXP {
         border: 1px solid grey;
 }
-body {
-    padding:10px;
-}
+
 
 .GVRTCR {
     border: 1px solid grey;
