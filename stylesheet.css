@@ -6,3 +6,6 @@ img {
     border:1px solid grey;
     margin-left:20px;
 }
+div {
+       float:left;
+}
