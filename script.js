@@ -13,6 +13,6 @@ function PASS() {
 function OFF() {
 	window.alert("You're Offline")
 }
-function ON {
+function ON () {
 	window.alert("You're online")
 }
