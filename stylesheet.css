@@ -2,10 +2,26 @@ img {
     padding:28px;
        display:flex;
     float:left;
-    border:1px solid black;
+}   
 
+#a {
+	padding:10px;
+	 border:1px solid black;
+	}
 
-}
+#b{
+	padding:10px;
+	 border:1px solid black;
+	}
+#c {
+	padding:10px;
+	 border:1px solid black;
+	}
+#d {
+	padding:10px;
+	 border:1px solid black;
+	}
+
 
 body {
     padding:10px;
