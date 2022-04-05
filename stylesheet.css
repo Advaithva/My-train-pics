@@ -1,7 +1,8 @@
 img {
-    padding:20px;
+    padding:28px;
        display:flex;
     float:left;
+    border:1px solid black;
 
 
 }
@@ -16,7 +17,3 @@ body {
 
   padding: 9.42px;
 }  
-html {
-        margin:35px;
-    border:3px dotted grey;
-}
