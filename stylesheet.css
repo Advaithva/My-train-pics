@@ -22,3 +22,8 @@ body {
    background-size:cover;
 	background position:center center;
 }
+li:hover {
+
+	color: #00fff00;
+	opacity:0.5;
+}
