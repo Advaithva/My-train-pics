@@ -6,3 +6,8 @@ function INT() {
 	window-alert("Train no. 12678 Ernakulam Bengaluru Intercity Express")
 
 } 
+function PASS() {
+	window.alert("Train no. 16128 Guruvayur Chennai Egmore Express and Train no. Guruvayur Trissur Passenger ")
+	window.alert("Location - Trissur Railway Station")
+}
+	
