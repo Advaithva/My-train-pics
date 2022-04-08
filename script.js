@@ -16,7 +16,7 @@ function OFF() {
 function ON() {
 	alert("You're online")
 }
-function ME() {
+function BE() {
 	alert("Train no. 06525 Kanyakumari Bengaluru Island Express")
 	alert("Location - Bengaluru East")
 }
