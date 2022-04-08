@@ -24,10 +24,10 @@ function BE() {
 	alert("Train no. 06525 Kanyakumari Bengaluru Island Express");
 	alert("Location - Bengaluru East");
 }
-function BAND() {
+function BANDSF() {
 	alert("Train no. 12684 Banaswadi Ernakulam Superfast Express")
 }
-function BNC () {
+function DEMU() {
 	alert("Train no.")
 	alert("Location - Bangalore Cantonment")
 }
