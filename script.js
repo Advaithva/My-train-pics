@@ -28,7 +28,7 @@ function BANDSF() {
 	alert("Train no. 12684 Banaswadi Ernakulam Superfast Express")
 }
 function DEMU() {
-	alert("Train no.")
+	alert("angalore Cantonment Kolar DEMU")
 	alert("Location - Bangalore Cantonment")
 }
 function BNC() {
