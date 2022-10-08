@@ -35,3 +35,14 @@ function BNC() {
 	alert("Train no.")
 	alert("Location - Bangalore Cantonment")
 }
+
+function HSNSUR() {
+	alert("Train no. 11312 - Hassan Solapr Express")
+	alert("Location - Yeshvantpur Jn.")	
+}
+
+
+function GRB() {
+	alert("Train no. 12257 - Yeshvantpur Kochuveli Garib Rath Express")
+	alert("Location - Yeshvantpur Jn.")	
+}
