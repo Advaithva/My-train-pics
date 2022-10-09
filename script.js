@@ -7,7 +7,7 @@ function INT() {
 
 } 
 function PASS() {
-	alert("Train no. 16128 Guruvayur Chennai Egmore Express and Train no. Guruvayur Trissur Passenger ");
+	alert("Train no. 16128 Guruvayur Chennai Egmore Express");
 	alert("Location - Trissur Railway Station")
 }
 function OFF() {
