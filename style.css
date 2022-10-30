@@ -28,5 +28,5 @@ div a:hover {
 
 
 .row {
-   width:100%;
+   display:flex;
 }
