@@ -490,3 +490,11 @@ div img {
    height:5cm;
    width:8cm;
 }
+
+
+div {
+   padding:1cm;
+   border:3px solid black;
+   margin:1cm;
+   
+}
