@@ -484,3 +484,9 @@ body {
 body {
    font-size:32px;
 }
+
+
+div img {
+   height:5cm;
+   width:8cm;
+}
