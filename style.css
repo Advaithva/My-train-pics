@@ -496,7 +496,7 @@ div {
    padding:1cm;
    border:3px solid black;
    margin:1cm;
-   
+   float:left;
 }
 
 div a {
