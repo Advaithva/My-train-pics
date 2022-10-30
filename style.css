@@ -498,3 +498,11 @@ div {
    margin:1cm;
    
 }
+
+div a {
+   color:#000;
+}
+
+div a:hover {
+   color:#555;
+}
