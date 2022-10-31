@@ -19,11 +19,11 @@ a {
 
 }
 
-div a {
+div {
    color:#000;
 }
 
-div a:hover {
+a:hover {
    color:#555;
 }
 
