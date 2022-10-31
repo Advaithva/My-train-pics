@@ -1,5 +1,11 @@
 body {
    font-size:25px;
+   background-image:url(bluewave-bkg-1980light.jpg);
+   background-size:cover;
+   background-position:center;
+   background-blend-mode:lighten;
+   background-color:rgba(255, 255, 255, 0.6);
+   
 }
 
 
