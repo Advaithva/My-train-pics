@@ -1,0 +1,9 @@
+forms {
+  padding:2cm;
+  border:5px solid black;
+  margin:2cm;
+}
+
+input, label {
+  padding-bottom:10px;
+}
