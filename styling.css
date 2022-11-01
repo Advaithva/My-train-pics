@@ -17,3 +17,10 @@ input, label {
 .a {
   width:100%;
 }
+
+body {
+  margin:0;
+  padding:0;
+  background-image:linear-gradient(white, lightblue, #aaccff);
+  
+}
