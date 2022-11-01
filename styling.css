@@ -13,3 +13,7 @@ input, label {
   float:left;
   margin-left:2cm;
 }
+
+.a {
+  width:100%;
+}
