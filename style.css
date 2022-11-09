@@ -24,6 +24,10 @@ div {
    color:#000;
 }
 
+div p {
+   padding:0, 10px;
+}
+
 a:hover {
    background-color:rgba(100, 100, 100, 0.62);
 }
