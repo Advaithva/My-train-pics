@@ -26,7 +26,20 @@ div {
 
 div p {
    padding:0, 10px;
+  background-color: red;
+  animation-name: example;
+  animation-duration:2s;
+  animation-iteration-count: infinite;
 }
+
+@keyframes example {
+  0%   {color:red;}
+  25%  {color:yellow;}
+  50%  {color:blue;}
+  75%  {color:green;}
+  100% {color:red;}
+}
+
 
 a:hover {
    background-color:rgba(100, 100, 100, 0.62);
