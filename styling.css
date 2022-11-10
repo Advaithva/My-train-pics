@@ -3,6 +3,9 @@
   border:5px solid black;
   width:10cm;
   padding:2cm;
+  resize: both;
+  overflow: auto;
+}
 }
 
 input, label {
