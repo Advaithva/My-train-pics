@@ -32,7 +32,6 @@ function DEMU() {
 	alert("Location - Bangalore Cantonment")
 }
 function BNC() {
-	alert("Train no.")
 	alert("Location - Bangalore Cantonment")
 }
 
