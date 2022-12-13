@@ -3,6 +3,7 @@
      
       <title> Forms </title>
       <link rel = "stylesheet" href = "styling.css">
+      <script src = "main.js"></script>
      
   </head>
   <body>
@@ -25,7 +26,7 @@
          
    <div class = "a">
   <label for="email">Your Email</label>
-  <input name="Email" id="email" type="email" required = "yes">
+  <input name="Email" id="email" type="email" required = "yes" oninvalid = "INVAILD()">
       </a>
    <br><br>
       
@@ -47,7 +48,7 @@
            </a>
    <br><br>
    
-   <input type="submit" class = "submit">
+   <input type="submit" class = "submit" onsubmit = "SUB()">
 </form>
    </div>
    
